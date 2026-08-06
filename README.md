@@ -70,9 +70,10 @@ const kawsarHamid = {
 ---
 
 ### 📂 Featured Projects
+- **PawHaven - Pet Adoption Platform** – A full-stack pet adoption platform where users can explore pets, submit adoption requests, and manage their adoption journey.
+- - **KeenKeeper -** – Relationship management application to track social interactions. Interactive UI with responsive design and efficient data handling.
 - **Job Tracker Application** – A tool to manage applications and interview stages efficiently.
 - **GitHub Issue Tracker** – Built with asynchronous JavaScript to track repository issues in real-time.
-- **Digitools -** – A mordern and responsive digital product marketplace build with react.
 
 ---
 
